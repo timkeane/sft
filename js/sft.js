@@ -33,8 +33,7 @@ new nyc.ol.FinderApp({
     ]
   }],
   facilitySearch: {nameField: 'beneficiary_number'},
-  decorations: [decorations],
-  directionsUrl: 'https://maps.googleapis.com/maps/api/js?client=gme-newyorkcitydepartment&channel=pka&sensor=false&libraries=visualization'
+  decorations: [decorations]
 });
 
 $(document).ready(function() {
