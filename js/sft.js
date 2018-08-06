@@ -1,4 +1,3 @@
-
 new nyc.ol.FinderApp({
   title: 'Sandy Funding Tracker',
   geoclientUrl: 'https://maps.nyc.gov/geoclient/v1/search.json?app_key=74DF5DB1D7320A9A2&app_id=nyc-lib-example',

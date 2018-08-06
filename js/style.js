@@ -17,5 +17,5 @@ function style(feature, resolution) {
         color: 'black'
       })
     })
-  })
+  });
 };
