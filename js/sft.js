@@ -37,6 +37,6 @@ new nyc.ol.FinderApp({
 });
 
 $(document).ready(function() {
-  $('.filter-1 h3').click()
-  finderApp.tabs.open('#filters')
+  $('.filter-1 h3').click();
+  finderApp.tabs.open('#filters');
 });
